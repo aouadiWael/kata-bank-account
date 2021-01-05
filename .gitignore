@@ -1,0 +1,11 @@
+*/bin/
+*/.settings/
+*/target/
+*/target-eclipse/
+.classpath
+.project
+*/.apt_generated/
+*/.factorypath
+*/.idea/
+*.iml
+*.idea/*
